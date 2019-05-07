@@ -8,7 +8,8 @@
 
 Jetson Nano 模组仅有 70 x 45 毫米，是体积非常小巧的 Jetson 设备。 为多个行业（从智慧城市到机器人）的边缘设备部署 AI 时，此生产就绪型模组系统 (SOM) 可以提供强大支持，使用260针边缘连接器。
 
-官方定价：99刀，5-10w，472 GFLOPs
+开发者套件：99美元的Jetson Nano尺寸为100x80mm，可为全桌面Linux给予开箱即用支持
+生产型模块：129美元模块尺寸70x45mm
 
 - [文档](docs/)
 - [资源](src/)
@@ -21,6 +22,7 @@ Jetson Nano 模组仅有 70 x 45 毫米，是体积非常小巧的 Jetson 设备
 * HDMI 2.0 或 DP1.2 | eDP 1.4 | DSI (1 x2) 2 同步,千兆以太网
 * 1 x1/2/4 PCIE、1x USB 3.0、3x USB 2.0
 * 1x SDIO/2x SPI/6x I2C/2x I2S/GPIO
+* 472 GFLOPs，5-10w
 
 [![sites](SoC/nano.png)](https://www.nvidia.cn/autonomous-machines/embedded-systems/jetson-nano/)
 
