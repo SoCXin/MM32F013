@@ -15,6 +15,7 @@ Jetson Nano 模组仅有 70 x 45 毫米，是体积非常小巧的 Jetson 设备
 - [资源](src/)
 
 [![sites](SoC/jetson-nano.jpg)](https://developer.nvidia.com/embedded/downloads#?search=Jetson%20Nano)
+[![sites](SoC/pcb.gif)](https://developer.nvidia.com/embedded/downloads#?search=Jetson%20Nano)
 
 * GPU	NVIDIA Maxwell™ 架构，配备 128 个 NVIDIA CUDA® 核心
 * CPU	四核Cortex®-A57处理器,4GB位LPDDR4,16GB eMMC 5.1闪存
