@@ -1,30 +1,24 @@
-﻿# [Jetson Nano](https://github.com/sochub/Jetson) 
-[![sites](SoC/qitas.png)](http://www.qitas.cn)
-#### 归属：[Cortex-A57](https://github.com/sochub/CA57)
-#### 父级：[nvidia](https://github.com/sochub/nvidia)
-### [描述](https://github.com/sochub/Jetson/wiki) 
+﻿# [MM32F013](https://github.com/SoCXin/MM32F013)
 
-[NVIDIA Jetson Nano](https://www.nvidia.cn/autonomous-machines/embedded-systems/jetson-nano/) 助力开发数百万个新的小型、低功率的 AI 系统。 它开启了嵌入式物联网应用程序的新领域，包括入门级网络硬盘录像机 (NVR)、家用机器人以及具备全面分析功能的智能网关。
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-Jetson Nano 模组仅有 70 x 45 毫米，是体积非常小巧的 Jetson 设备。 为多个行业（从智慧城市到机器人）的边缘设备部署 AI 时，此生产就绪型模组系统 (SOM) 可以提供强大支持，使用260针边缘连接器。
+#### [Vendor](https://github.com/SoCXin/Vendor)：[MindMotion](http://www.mm32.com.cn/)
+#### [Core](https://github.com/SoCXin/Cortex)：[Cortex M0](https://github.com/SoCXin/CM0)
+#### [Level](https://github.com/SoCXin/Level)：72MHz
 
-* 开发者套件：99美元的Jetson Nano尺寸为100x80mm，可为全桌面Linux给予开箱即用支持
-* 生产型模块：129美元模块尺寸70x45mm
+## [描述](https://github.com/SoCXin/MM32F013/wiki)
 
-- [文档](docs/)
-- [资源](src/)
+[MM32F013](https://github.com/SoCXin/MM32F013)
 
-[![sites](SoC/jetson-nano.jpg)](https://developer.nvidia.com/embedded/downloads#?search=Jetson%20Nano)
-[![sites](SoC/pcb.gif)](https://developer.nvidia.com/embedded/downloads#?search=Jetson%20Nano)
+[![sites](docs/MM32F0131.png)](https://github.com/SoCXin/MM32F013)
 
-* GPU	NVIDIA Maxwell™ 架构，配备 128 个 NVIDIA CUDA® 核心
-* CPU	四核Cortex®-A57处理器,4GB位LPDDR4,16GB eMMC 5.1闪存
-* 4K @ 60 (H.264/H.265), 12 通道（3x4 或 4x2）MIPI CSI-2 DPHY 1.1 (1.5 Gbps)
-* HDMI 2.0 或 DP1.2 | eDP 1.4 | DSI (1 x2) 2 同步,千兆以太网
-* 1 x1/2/4 PCIE、1x USB 3.0、3x USB 2.0
-* 1x SDIO/2x SPI/6x I2C/2x I2S/GPIO
-* 472 GFLOPs，5-10w
+### [资源收录](https://github.com/SoCXin/MM32F013)
 
-[![sites](SoC/nano.png)](https://www.nvidia.cn/autonomous-machines/embedded-systems/jetson-nano/)
+* [文档](docs/)
+* [资源](src/)
 
-###  [SoC开发平台](http://www.qitas.cn)   
+### [选型建议](https://github.com/SoCXin)
+
+* [MM32F013](https://github.com/SoCXin/MM32F031)
+
+###  [SoC芯平台](http://www.SoC.Xin)
