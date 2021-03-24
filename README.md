@@ -1,10 +1,8 @@
 ﻿# [MM32F013](https://github.com/SoCXin/MM32F013)
 
-[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-#### [Vendor](https://github.com/SoCXin/Vendor)：[MindMotion](http://www.mm32.com.cn/)
-#### [Core](https://github.com/SoCXin/Cortex)：[Cortex M0](https://github.com/SoCXin/CM0)
-#### [Level](https://github.com/SoCXin/Level)：72MHz
+#### [MindMotion](http://www.mindmotion.com.cn/)：[Cortex M0](https://github.com/SoCXin/CM0)
+#### [Level](https://github.com/SoCXin/Level)：72 MHz
 
 ## [描述](https://github.com/SoCXin/MM32F013/wiki)
 
@@ -16,9 +14,11 @@
 
 * [文档](docs/)
 * [资源](src/)
+* [工程](project/)
 
 ### [选型建议](https://github.com/SoCXin)
 
-* [MM32F013](https://github.com/SoCXin/MM32F031)
+* [MM32F013](https://github.com/SoCXin/MM32F013)
 
-###  [SoC芯平台](http://www.SoC.Xin)
+###  [芯云 www.SoC.Xin](http://www.SoC.Xin)
+
