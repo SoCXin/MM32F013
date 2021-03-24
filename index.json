@@ -1,21 +1,21 @@
 {
     "type":"MCU",
     "name":"MM32F013",
-    "series":["MM32F013","MM32F032"],
-    "compatible":["MM32F013","MM32F032"],
+    "series":["MM32F0131","MM32F0132","MM32F0133"],
+    "compatible":["MM32F031","MM32F032"],
     "price":[3.5,4.5],
-    "description":"WCH 1T 8051 MCU",
+    "description":"MindMotion Cortex M0 MCU",
     "peripheral": ["TIM","ADC","USB","UART","SPI","LDO","PWM"],
     "package":["MSOP10","QFN16","SOP16","TSSOP20"],
     "RAM":[1,1],
     "ROM":[16,16],
     "DATA":[128,128],
     "manufacturer": {
-        "vendor":"WCH",
-        "homepage": "http://www.wch.cn/products/CH554.html"
+        "vendor":"MindMotion",
+        "homepage": "http://www.mindmotion.com.cn/"
     },
-    "url":"http://www.SoC.xin/CH554",
-    "repo":"https://github.com/SoCXin/CH554",
+    "url":"http://www.SoC.xin/MM32F013",
+    "repo":"https://github.com/SoCXin/MM32F013",
     "version":"1.7.0",
     "Core": {
         "num": 1,
@@ -52,7 +52,7 @@
     "USB": {
         "num": 1,
         "FIFO": 64,
-        "more":["FS","type-C","Host","Device"]
+        "more":["FS","Host","Device"]
     },
     "PWR": {
         "VDD": [2800,5000],

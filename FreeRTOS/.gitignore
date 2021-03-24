@@ -1,7 +1,7 @@
 .pio/
 .vscode/
+Keil/*
 !*.uvprojx
-Keil/
 *.bin
 *.out
 *.o
