@@ -66,7 +66,8 @@ typedef volatile unsigned char  vu8;
 typedef volatile unsigned int  const  vuc32;        ///< Read Only
 typedef volatile unsigned short const vuc16;        ///< Read Only
 typedef volatile unsigned char  const vuc8;         ///< Read Only
-typedef bool    BOOL;
+//typedef bool    BOOL;
+
 #ifndef NULL
 #define NULL ((void *)0)
 #endif

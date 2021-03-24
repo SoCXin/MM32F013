@@ -1,8 +1,7 @@
 .pio/
 .vscode/
+Keil/*
 !*.uvprojx
-Keil/
-MDK_ARM/
 *.bin
 *.out
 *.o
